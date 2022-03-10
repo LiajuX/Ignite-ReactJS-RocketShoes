@@ -1,4 +1,5 @@
 <h1 align="center">
+  <br>
   <img src="./src/assets/images/logo-readme.svg" alt="RocketShoes" width="550px">
 </h1>
 
